@@ -1,0 +1,578 @@
+ {
+  "states": [
+    {
+      "stateName": "ALABAMA",
+      "parks": [
+     
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "ALASKA",
+      "parks": [
+        {
+          "name": "Denali National Park",
+          "url": "https://www.nps.gov/dena/index.htm"
+        },
+        {
+          "name": "Gates of the Arctic National Park",
+          "url": "https://www.nps.gov/gaar/index.htm"
+        },
+        {
+          "name": "Glacier Bay National Park",
+          "url": "https://www.nps.gov/glba/index.htm"
+        },
+        {
+          "name": "Katmai National Park",
+          "url": "https://www.nps.gov/katm/index.htm"
+        },
+        {
+          "name": "Kenai Fjords National Park",
+          "url": "https://www.nps.gov/kefj/index.htm"
+        },
+        {
+          "name": "Kobuk Valley National Park",
+          "url": "https://www.nps.gov/kova/index.htm"
+        },
+         {
+          "name": "Lake Clark National Park",
+          "url": "https://www.nps.gov/lacl/index.htm"
+        },
+        {
+          "name": "Wrangell-St. Elias National Park",
+          "url": "https://www.nps.gov/wrst/index.htm"
+        }
+      ],
+      "numOfParks":"8"
+    },
+    {
+      "stateName": "ARIZONA",
+      "parks": [
+        {
+          "name": "Grand Canyon National Park",
+          "url": "https://www.nps.gov/grca/index.htm"
+        },
+        {
+          "name": "Petrified Forest National Park",
+          "url": "https://www.nps.gov/pefo/index.htm"
+        },
+        {
+          "name": "Saguaro National Park",
+          "url": "https://www.nps.gov/sagu/index.htm"
+        }
+      ],
+      "numOfParks":"3"
+    },
+    {
+      "stateName": "ARKANSAS",
+      "parks": [
+        {
+          "name": "Hot Springs National Park",
+          "url": "https://www.nps.gov/hosp/index.htm"
+        }
+      ],
+      "numOfParks":"1"
+    },
+    {
+      "stateName": "CALIFORNIA",
+      "parks": [
+        {
+          "name": "Channel Islands National Park",
+          "url": "https://www.nps.gov/chis/"
+        },
+        {
+          "name": "Death Valley National Park",
+          "url": "https://www.nps.gov/deva/ "
+        },
+        {
+          "name": "Joshua Tree National Park",
+          "url": "https://www.nps.gov/jotr/"
+        },
+        {
+          "name": "Pinncales National Park",
+          "url": "https://www.nps.gov/pinn/"
+        },
+        {
+          "name": "Lassen Volcanic Park",
+          "url": "https://www.nps.gov/lavo/"
+        },
+        {
+          "name": "Redwood National Park",
+          "url": "https://www.nps.gov/redw/"
+        },
+        {
+          "name": "Sequoia National Park",
+          "url": "https://www.nps.gov/seki/"
+        }
+      ],
+      "numOfParks":"7"
+    },
+    {
+      "stateName": "COLORADO",
+      "parks": [
+        {
+          "name": "Yosemite National Park",
+          "url": "https://www.nps.gov/yose/"
+        },
+        {
+          "name": "Black Canyon of the Gunnison National Park",
+          "url": "https://www.nps.gov/blca/"
+        },
+        {
+          "name": "Great Sand Dunes National Park",
+          "url": "https://www.nps.gov/grsa/"
+        },
+         {
+          "name": "Rocky Mountain National Park",
+          "url": "https://www.nps.gov/romo/"
+        },
+        {
+          "name": "Mesa Verde National Park",
+          "url": "https://www.nps.gov/meve/"
+        }
+      ],
+      "numOfParks":"5"
+    },
+    {
+      "stateName": "CONNECTICUT",
+      "parks": [
+       
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "DELAWARE",
+      "parks": [
+        
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "FLORIDA",
+      "parks": [
+        {
+          "name": "Biscayne National Park",
+          "url": "https://www.nps.gov/bisc/"
+        },
+         {
+          "name": "Everglades National Park",
+          "url": "https://www.nps.gov/ever/"
+        },
+        {
+          "name": "Dry Tortugas National Park",
+          "url": "https://www.nps.gov/drto/"
+        }
+      ],
+      "numOfParks":"3"
+    },
+    {
+      "stateName": "GEORGIA",
+      "parks": [
+      
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "HAWAII",
+      "parks": [
+        {
+          "name": "Haleakala National Park",
+          "url": "https://www.nps.gov/hale/"
+        },
+        {
+          "name": "Hawaii Volcanoes National Park",
+          "url": "https://www.nps.gov/havo/"
+        }
+      ],
+      "numOfParks":"2"
+    },
+    {
+      "stateName": "IDAHO",
+      "parks": [
+      
+        {
+          "name": "Mammoth Cave Park",
+          "url": "https://www.nps.gov/maca/"
+        }
+      ],
+      "numOfParks":"1"
+    },
+    {
+      "stateName": "ILLINOIS",
+      "parks": [
+       
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "INDIANA",
+      "parks": [
+       
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "IOWA",
+      "parks": [
+       
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "KANSAS",
+      "parks": [
+       
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "KENTUCKY",
+      "parks": [
+        {
+          "name": "Mammoth Cave Park",
+          "url": "https://www.nps.gov/maca/"
+        }
+      ],
+      "numOfParks":"1"
+    },
+    {
+      "stateName": "LOUISIANA",
+      "parks": [
+       
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "MAINE",
+      "parks": [
+      
+        {
+          "name": "Acadia National Park",
+          "url": "https://www.nps.gov/acad/"
+        }
+      ],
+      "numOfParks":"1"
+    },
+    {
+      "stateName": "MARYLAND",
+      "parks": [
+       
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "MASSACHUSETTS",
+      "parks": [
+       
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "MICHIGAN",
+      "parks": [
+        {
+          "name": "Isle Royale National Park",
+          "url": "https://www.nps.gov/isro/"
+        }
+       
+      ],
+      "numOfParks":"1"
+    },
+    {
+      "stateName": "MINNESOTA",
+      "parks": [
+        {
+          "name": "Voyageurs National Park",
+          "url": "https://www.nps.gov/voya/"
+        }
+      
+      ],
+      "numOfParks":"1"
+    },
+    {
+      "stateName": "MISSISSIPPI",
+      "parks": [
+      
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "MISSOURI",
+      "parks": [
+        
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "MONTANA",
+      "parks": [
+        {
+          "name": "Glacier National Park",
+          "url": "https://www.nps.gov/glac/"
+        },
+        {
+          "name": "Yellowstone National Park",
+          "url": "https://www.nps.gov/yell/"
+        }
+      ],
+      "numOfParks":"2"
+    },
+    {
+      "stateName": "NEBRASKA",
+      "parks": [
+       
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "NEVADA",
+      "parks": [
+        {
+          "name": "Great Basin National Park",
+          "url": "https://www.nps.gov/grba/"
+        }
+      ],
+      "numOfParks":"1"
+    },
+    {
+      "stateName": "NEW HAMPSHIRE",
+      "parks": [
+      
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "NEW JERSEY",
+      "parks": [
+      
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "NEW MEXICO",
+      "parks": [
+        {
+          "name": "Carlsbad Caverns National Park",
+          "url": "https://www.nps.gov/cave/"
+        }
+      ],
+      "numOfParks":"1"
+    },
+    {
+      "stateName": "NEW YORK",
+      "parks": [
+       
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "NORTH CAROLINA",
+      "parks": [
+        {
+          "name": "Great Smoky Mountains National Park",
+          "url": "https://www.nps.gov/grsm/"
+        }       
+      ],
+      "numOfParks":"1"
+    },
+    {
+      "stateName": "NORTH DAKOTA",
+      "parks": [
+        {
+          "name": "Theodore Roosevelt National Park",
+          "url": "https://www.nps.gov/thro/"
+        }
+      ],
+      "numOfParks":"1"
+    },
+    {
+      "stateName": "OHIO",
+      "parks": [
+        {
+          "name": "Cuyahoga Valley National Park",
+          "url": "https://www.nps.gov/cuva/"
+        }
+      ],
+      "numOfParks":"1"
+    },
+    {
+      "stateName": "OKLAHOMA",
+      "parks": [
+       
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "OREGON",
+      "parks": [
+        {
+          "name": "Crater Lake National Park",
+          "url": "https://www.nps.gov/crla/"
+        }
+      ],
+      "numOfParks":"1"
+    },
+    {
+      "stateName": "PENNSYLVANIA",
+      "parks": [
+     
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "RHODE ISLAND",
+      "parks": [
+      
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "SOUTH CAROLINA",
+      "parks": [
+        {
+          "name": "Shenandoah National Park",
+          "url": "https://www.nps.gov/shen/"
+        }
+      ],
+      "numOfParks":"1"
+    },
+    {
+      "stateName": "SOUTH DAKOTA",
+      "parks": [
+       {
+          "name": "Badlands National Park",
+          "url": "https://www.nps.gov/badl/"
+        }
+      ],
+      "numOfParks":"1"
+    },
+    {
+      "stateName": "TENNESSEE",
+      "parks": [
+        {
+          "name": "Great Smoky Mountains National Park",
+          "url": "https://www.nps.gov/grsm/"
+        } 
+      ],
+      "numOfParks":"1"
+    },
+    {
+      "stateName": "TEXAS",
+      "parks": [
+        {
+          "name": "Congaree National Park",
+          "url": "https://www.nps.gov/cong/"
+        },
+         {
+          "name": "Guadalupe Mountains National Park",
+          "url": "https://www.nps.gov/gumo/"
+        },
+        {
+          "name": "Badlands National Park",
+          "url": "https://www.nps.gov/badl/"
+        }
+        
+      ],
+      "numOfParks":"3"
+    },
+    {
+      "stateName": "UTAH",
+      "parks": [
+        {
+          "name": "Wind Cave National Park",
+          "url": "https://www.nps.gov/wica/"
+        },
+        {
+          "name": "Guadalupe Mountains National Park",
+          "url": "https://www.nps.gov/gumo/"
+        },
+        {
+          "name": "Arches National Park",
+          "url": "https://www.nps.gov/arch/"
+        },
+        {
+          "name": "Bryce Canyon National Park",
+          "url": "https://www.nps.gov/brca/"
+        },
+        {
+          "name": "Canyonlands National Park",
+          "url": "https://www.nps.gov/cany/"
+        }
+      ],
+      "numOfParks":"5"
+    },
+    {
+      "stateName": "VERMONT",
+      "parks": [
+       
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "VIRGINIA",
+      "parks": [
+       {
+          "name": "Shenandoah National Park",
+          "url": "https://www.nps.gov/shen/"
+        }
+      ],
+      "numOfParks":"1"
+    },
+    {
+      "stateName": "WASHINGTON",
+      "parks": [
+        {
+          "name": "Capitol Reef National Park",
+          "url": "https://www.nps.gov/care/"
+        },
+        {
+          "name": "Zion National Park",
+          "url": "https://www.nps.gov/zion/"
+        },
+        {
+          "name": "North Cascades National Park",
+          "url": "https://www.nps.gov/noca/"
+        },
+          {
+          "name": "Olympic National Park",
+          "url": "https://www.nps.gov/olym/"
+        },
+        {
+          "name": "Mount Rainier National Park",
+          "url": "https://www.nps.gov/mora/"
+        }
+      ],
+      "numOfParks":"5"
+    },
+    {
+      "stateName": "WEST VIRGINIA",
+      "parks": [
+       
+      
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "WISCONSIN",
+      "parks": [
+       
+      ],
+      "numOfParks":"0"
+    },
+    {
+      "stateName": "WYOMING",
+      "parks": [
+        {
+          "name": "Olympic National Park",
+          "url": "https://www.nps.gov/olym/"
+        },
+        {
+          "name": "Grand Teton National Park",
+          "url": "https://www.nps.gov/grte/"
+        }
+      ],
+      "numOfParks":"2"
+    }
+  ]
+ }
+ 
